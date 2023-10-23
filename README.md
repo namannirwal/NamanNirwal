@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm NAMAN NIRWAL aka Surajmal  </h1>
+<h1 align="center"> Hi 👋, I'm NAMAN NIRWAL </h1>
 <h3 align="center">A Programmer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://as2.ftcdn.net/v2/jpg/01/35/92/85/1000_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg">
