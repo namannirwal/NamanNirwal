@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **My portfolio**
 
-//- 🌱 I’m currently learning **Machine Learning, Flutter.**
+- 🌱 I’m currently learning **Machine Learning, Flutter.**
 
 - 📫 How to reach me **namannirwal4324@gmail.com**
 
