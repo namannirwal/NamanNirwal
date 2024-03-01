@@ -2,13 +2,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namannirwal&label=Profile%20views&color=0e75b6&style=flat" alt="namannirwal" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Programming Sites:</h3>
 <p align="left">
 <a href="https://codeforces.com/profile/namannirwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="namannirwal" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nirwalnaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nirwalnaman" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages I like to code in:</h3>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=namannirwal&show_icons=true&locale=en&layout=compact" alt="namannirwal" /></p>
