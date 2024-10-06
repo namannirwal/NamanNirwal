@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Naman Singh </h1>
+<h1 align="center">Hello 👋, I'm Naman </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namannirwal&label=Profile%20views&color=0e75b6&style=flat" alt="namannirwal" /> </p>
 
